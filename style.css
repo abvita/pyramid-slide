@@ -1,0 +1,25 @@
+#header {
+  background-color: lightgreen;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+#container {
+  background-color: grey;
+  padding:10px;
+}
+
+#app-box{
+  background-color: white;
+  margin: 10px;
+}
+
+#app-header{
+  text-align: center;
+  background-color: lightgray;
+}
+
+#pyramid{
+  text-align: right;
+}
