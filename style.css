@@ -59,7 +59,7 @@ table {
   background-color: purple;
   color: white;
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
   padding-bottom: 10px;
   padding-top: 10px;
 }
@@ -111,5 +111,4 @@ table {
   margin-top: 10px;
   margin-bottom: 20px;
   margin-right: 40%;
-  padding: 20px;
 }
